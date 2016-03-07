@@ -12,7 +12,9 @@
     <license>Apache 2.0 License</license>
 
     <engines>
-        <engine name="cordova" version=">=5.0.0" />
+        <engine name="cordova-ios" version=">=3.7.0" />
+        <!-- required for Android M runtime permission checks -->
+        <engine name="cordova-android" version=">=5.0.0" />
     </engines>
 
     <js-module name="Q" src="www/lib/q.js">
