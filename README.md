@@ -3,7 +3,7 @@ api-ai-cordova
 
 [![Build Status](https://travis-ci.org/api-ai/api-ai-cordova.svg?branch=master)](https://travis-ci.org/api-ai/api-ai-cordova)
 
-Plugin makes it easy to integrate your Cordova application with [api.ai](http://api.ai) natural language processing service. This plugin supports Android and iOS mobile operation systems.
+Plugin makes it easy to integrate your Cordova application with [api.ai](http://api.ai) natural language processing service. This plugin supports Android and iOS mobile operation systems, but to build on Telerik Platform you need to target at least Cordova-iOS 3.7.0 and Cordova-Android 5.0.0.
 
 Project on Github [https://github.com/api-ai/api-ai-cordova](https://github.com/api-ai/api-ai-cordova)  
 Page in NPM [https://www.npmjs.com/package/cordova-plugin-apiai](https://www.npmjs.com/package/cordova-plugin-apiai)  
